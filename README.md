@@ -1,1 +1,1 @@
-# {dcl_name}'s repo
+# proper's repo
